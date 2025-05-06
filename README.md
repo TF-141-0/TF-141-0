@@ -1,5 +1,5 @@
 ## About Me
-Currently on a side quest to tame the chaotic beasts known as C/C++, Python, MATLAB, and the Arduino framework—because apparently, I enjoy debugging more than sleep. Pretending to "explore" robotics and embedded systems while mostly staring at error messages and wondering why the LED won’t blink.
+Currently on a side quest to tame C/C++, Python, MATLAB, and the Arduino framework—because apparently, I enjoy debugging more than sleep. Pretending to "explore" robotics and embedded systems while mostly staring at error messages and wondering why the LED won’t blink.
 
 ##  Legendary knack for surviving deadlines
 
