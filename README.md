@@ -9,7 +9,7 @@ Currently on a side quest to tame C/C++, Python, MATLAB, and the Arduino framewo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/> natkhat bilauta 
 <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="60"/>
           
-## GitHub Stats
+## Digital footprint of my overthinking
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TF-141-0&theme=dark&show_icons=true&count_private=true">
