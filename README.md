@@ -5,8 +5,7 @@ Currently on a side quest to tame C/C++, Python, MATLAB, and the Arduino framewo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
