@@ -2,10 +2,11 @@
 As of now intrested in Robotics and embedded systems
 Exploring & Learning C/C++, Python , MATLAB, Arduino framework
 
-## My Skills
+##  Legendary knack for surviving deadlines
 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+
 
 ## GitHub Stats
 
@@ -14,7 +15,3 @@ Exploring & Learning C/C++, Python , MATLAB, Arduino framework
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TF-141-0&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TF-141-0&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-## Connect with me
-
-
