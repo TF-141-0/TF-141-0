@@ -1,5 +1,5 @@
 ## About Me
-Currently on a side quest to tame C/C++, Python, MATLAB, and the Arduino framework—because apparently, I enjoy debugging more than sleep. Pretending to "explore" robotics and embedded systems while mostly staring at error messages and wondering why the LED won’t blink.
+Currently on a side quest to tame C/C++, Python, MATLAB, and the Arduino framework—because apparently, Enjoi debugging more than sleep. Pretending to "explore" robotics and embedded systems while mostly staring at error messages and wondering why the LED won’t blink.
 
 ##  Knack for surviving deadlines
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>C
@@ -7,7 +7,7 @@ Currently on a side quest to tame C/C++, Python, MATLAB, and the Arduino framewo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60"/>Ard IDE
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/> natkhat bilauta 
           
-## Digital footprint of my overthinking
+## Github Heatmap
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TF-141-0&theme=dark&show_icons=true&count_private=true">
